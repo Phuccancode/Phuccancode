@@ -1,23 +1,121 @@
-<h1 align="center">Hi 👋, I'm Tran Hong Phuc</h1>
-<h3 align="center">A passionate Data Engingeer from VietNam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phuccancode&label=Profile%20views&color=0e75b6&style=flat" alt="phuccancode" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phuccancode" alt="phuccancode" /></a> </p>
+# Hi, I'm Tran Hong Phuc 👋
 
-- 🌱 I’m currently learning **Java Spring, ReactJS, Docker, AWS**
+### Data Engineer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tranhongphuc-phoenix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tranhongphuc-phoenix" height="30" width="40" /></a>
-<a href="https://fb.com/phuc.tranhong.phix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phuc.tranhong.phix" height="30" width="40" /></a>
-<a href="https://instagram.com/phuc.tranhong.phix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phuc.tranhong.phix" height="30" width="40" /></a>
-</p>
+**Data Pipelines · CDC & Streaming · Vector Databases · Data Infrastructure**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Building reliable data pipelines and scalable data systems.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phuccancode&show_icons=true&locale=en&layout=compact" alt="phuccancode" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tranhongphuc-phoenix)
+[![GitHub](https://img.shields.io/badge/GitHub-phuccancode-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/phuccancode)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tranhongphucfb@gmail.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phuccancode&show_icons=true&locale=en" alt="phuccancode" /></p>
+</div>
 
+---
+
+## About Me
+
+I'm a **Data Engineer** and Computer Science graduate from **Ho Chi Minh City University of Technology (HCMUT)**, Vietnam.
+
+My work focuses on building reliable data ingestion pipelines, CDC workflows, data quality systems, and scalable data infrastructure.
+
+- 🔧 **Data Engineering:** ETL/ELT, orchestration, data validation, and incremental processing
+- 🔄 **CDC & Streaming:** Kafka, Debezium, and operational data synchronization
+- 🔍 **Vector Search:** Milvus, ANN indexing, and large-scale embedding ingestion
+- 🏗️ **Engineering:** Database design, backend systems, and containerized deployment
+
+---
+
+## Tech Stack
+
+### Data Engineering & Orchestration
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![NiFi](https://img.shields.io/badge/Apache_NiFi-728E9B?style=flat-square)
+![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=flat-square)
+
+### Streaming & Data Integration
+
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Debezium](https://img.shields.io/badge/Debezium-FF6600?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
+
+### Databases & Storage
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat-square)
+
+### Backend & DevOps
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Featured Project
+
+### Student Grade Data Pipeline
+
+**Viettel Digital Talent 2026 — Data Engineering Track**
+
+An automated data pipeline for ingesting, validating, cleaning, and aggregating student grade data.
+
+**Key Engineering Highlights**
+- Designed a 4-stage Apache NiFi data pipeline
+- Implemented incremental ingestion and deduplication
+- Built automated data validation and quality reporting
+- Handled late-arriving records and score corrections
+- Designed append-only historical storage and idempotent processing
+
+**Stack:** Apache NiFi · PostgreSQL · SQL · Python · Docker Compose
+
+[View Repository](https://github.com/phuccancode/nifi-student-grade-pipeline)
+
+---
+
+## Engineering Experience
+
+**Large-Scale Vector Search R&D**
+
+Researching vector search infrastructure using Milvus, including ANN index benchmarking, partitioning, sharding, and embedding ingestion workflows.
+
+**E-commerce Data Platform**
+
+Built automated marketplace ingestion and CDC pipelines using Airflow, Airbyte, Kafka, and Debezium for analytics and downstream ML use cases.
+
+**Software & Solution Engineering**
+
+Experienced in backend development, database migration, and integration systems using Spring Boot, PostgreSQL, and SQL Server.
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=phuccancode&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub Statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuccancode&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Let's connect and build better data systems.**
+
+[LinkedIn](https://linkedin.com/in/tranhongphuc-phoenix) · [Email](mailto:tranhongphucfb@gmail.com) · [GitHub](https://github.com/phuccancode)
+
+</div>
